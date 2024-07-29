@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Łukasz Pietrzykowski</h1>
 <h3 align="center">A frontend developer from Poland.</h3>
 
-- 🔭 I’m currently working on my **portflio website**
+- 🔭 I’m currently working for **Envelo**
 
-- 🌱 I’m currently learning **JavaScript(ES6+), React**
+- 🌱 Tools that I'm working with: **JavaScript(ES6+), Typescript, Angular, RxJs, NgRx, Nx**
 
 - 📫 How to reach me **lukaszpietrzykowsk@gmail.com**
-
-- 📄 Know about my experiences [soon](soon)
 
 - ⚡ Fun fact **I play a guitar**
 
